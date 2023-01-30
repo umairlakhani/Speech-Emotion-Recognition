@@ -1,0 +1,2 @@
+# Speech Emotion Recognition
+ Speech Emotion Recognition (SER) is the process of identifying the emotional state of a speaker  from the speech signal. It is a subfield of affective computing, which focuses on the design of  systems that can recognize, interpret, and respond to human emotions. SER can be performed  using a variety of techniques, including signal processing, machine learning, and natural language  processing. The goal of SER is to improve the communication between humans and machines by  allowing the machine to understand and respond to human emotions.
